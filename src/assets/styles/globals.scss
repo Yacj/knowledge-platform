@@ -1,0 +1,6 @@
+// 全局样式
+html, body, #app {
+    height:calc(100vh - 50px);
+    background:var(--van-background-2);
+    color: var(--van-text-color);
+}
